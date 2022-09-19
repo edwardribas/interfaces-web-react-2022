@@ -1,0 +1,15 @@
+.home{
+    text-align: center;
+    
+    h1{
+        margin-bottom: 30px;
+        font-size: 1.7rem;
+    }
+}
+
+.pessoas{
+    display: flex;
+    gap: 40px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
