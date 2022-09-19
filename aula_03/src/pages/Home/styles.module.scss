@@ -1,0 +1,15 @@
+.home{
+    text-align: center;
+    
+    h1{
+        margin-bottom: 30px;
+        font-size: 1.7rem;
+    }
+}
+
+.sabores{
+    display: flex;
+    gap: 7px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
